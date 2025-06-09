@@ -25,7 +25,7 @@ const Counter = ({initialCount}) => {
           className="bg-gray-500 hover:bg-gray-600 text-white font-medium py-1 px-4 rounded"
           onClick={handleReset}
         >
-          Reset
+          Resett
         </button>
       </div>
     </div>
